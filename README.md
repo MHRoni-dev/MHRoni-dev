@@ -1,19 +1,16 @@
 ## Hi, I'm MHRoni
 
-I'm a full stack developer from Bangladesh. Right now I work at Orviko, building web apps for clients.
+Full stack developer from Bangladesh, working at Orviko. I am friendly person.
 
-I started with the MERN stack and I still write mostly TypeScript, but I don't really think in terms of "my stack" anymore. I use whatever the project needs and figure out the rest along the way.
+Previously we couldn't learn all possible stack, but now with AI stack doesn't matter.
 
-Some things I've worked on. Most of it is client work, so the code is private:
+Most proud of a headwear store we built it from scratch, still not in production but soon will. I did almost everything with my own hands.
 
-- A marketplace for hot tubs and saunas in Canada, with seller accounts, listings and Stripe payments
-- An LMS (frontend and backend)
-- A dashboard for Saudi ZATCA e-invoicing. I got stuck on XML validation because Node doesn't have a good library for it. I still want to fix that one.
-- A small in-page debug console for a client site, so they can copy the logs and send them to me on WhatsApp instead of trying to explain what broke
+ZATCA e-invoicing for Saudi: we didn't have node support for xml so we needed to use java and use scripting to run java, but the client didn't get a server when we needed to host it, 
 
-Outside of work I like math problems and puzzles, and I travel when I get the chance.
+Outside work I like math problem, puzzles, travel and sleep.
 
-These days I'm also trying to build something of my own. I'll share it here and on X as it happens.
+Right now working on my own branding and profile.
 
 **Tools I use most:** TypeScript, React, Next.js, Vite, Node.js, Express, MongoDB, Stripe
 
